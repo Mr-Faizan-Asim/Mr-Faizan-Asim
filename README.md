@@ -1,4 +1,5 @@
-<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*3PKdNWD6UJobb_JDWV5elg.png" alt="mr-faizan-asim" /></p>
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQERniwK9eaJEg/profile-displaybackgroundimage-shrink_350_1400/0/1679565584890?e=1702512000&v=beta&t=71lGSt9TLEgS3LyjVL4n4Lx-Ml8T8nQ1XI9KI3erZ30" />
+<br/>
 
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Asim</h1>
 <h3 align="center">Crafting Intelligent Web Solutions: MERN Stack & ML Engineer</h3>
