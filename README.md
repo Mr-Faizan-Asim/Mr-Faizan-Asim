@@ -1,4 +1,4 @@
-<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=mr-faizan-asim&show_icons=true&locale=en&layout=compact](https://miro.medium.com/v2/resize:fit:1400/1*3PKdNWD6UJobb_JDWV5elg.png)" alt="mr-faizan-asim" /></p>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*3PKdNWD6UJobb_JDWV5elg.png" alt="mr-faizan-asim" /></p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Asim</h1>
 <h3 align="center">Crafting Intelligent Web Solutions: MERN Stack & ML Engineer</h3>
