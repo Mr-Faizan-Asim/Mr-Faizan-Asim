@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/D4D16AQERniwK9eaJEg/profile-displaybackgroundimage-shrink_350_1400/0/1679565584890?e=1702512000&v=beta&t=71lGSt9TLEgS3LyjVL4n4Lx-Ml8T8nQ1XI9KI3erZ30" />
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQGcqgjbb87x4w/profile-displaybackgroundimage-shrink_350_1400/0/1698782493860?e=1704326400&v=beta&t=_V-rfqMsgedzqq7BZ4Y-FsujirAeo7GQno1hWElxfPs" />
 <br/>
 
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Asim</h1>
