@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems.**
 
-- 👨‍💻 All of my projects are available at [https://faizan-asim.web.app/](https://faizan-asim.web.app/)
+- 👨‍💻 All of my projects are available at [https://muhammad-faizan-asim.vercel.app/])
 
 - 📫 How to reach me **You can contact me at mr.faizan.asim@gmail.com to discuss potential collaborations or projects.**
 
