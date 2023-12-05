@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-faizan-asim&show_icons=true&locale=en&layout=compact" alt="mr-faizan-asim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-faizan-asim&sho
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-faizan-asim&" alt="mr-faizan-asim" /></p>
