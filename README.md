@@ -1,7 +1,7 @@
 <img align="center" src="https://media.licdn.com/dms/image/D4D16AQGcqgjbb87x4w/profile-displaybackgroundimage-shrink_350_1400/0/1698782493860?e=1704326400&v=beta&t=_V-rfqMsgedzqq7BZ4Y-FsujirAeo7GQno1hWElxfPs" />
 <br/>
 
-<h1 align="center">Hi 👋, I'm Muhammad Faizan Asim</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Faizan Asim</h1>
 <h3 align="center">Crafting Intelligent Web Solutions: MERN Stack & ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-faizan-asim&label=Profile%20views&color=0e75b6&style=flat" alt="mr-faizan-asim" /> </p>
