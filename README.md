@@ -72,9 +72,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support me:</h3>
-<p align="left">
-  <a href="https://www.buymeacoffee.com/mrfazanasim" target="blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="mrfazanasim" />
-  </a>
-</p>
+
