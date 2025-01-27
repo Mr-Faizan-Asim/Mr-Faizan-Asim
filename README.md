@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammad Faizan Asim</h1>
 <h3 align="center">MERN Stack & AI Engineer</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/76832813?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mr-faizan-asim&label=Profile%20views&color=0e75b6&style=flat" alt="mr-faizan-asim" /> 
