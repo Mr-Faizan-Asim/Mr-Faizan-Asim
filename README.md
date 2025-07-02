@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Muhammad Faizan Asim</h1>
-<h3 align="center">MERN Stack & AI Engineer</h3>
+<h3 align="center">Full Stack & AI Engineer</h3>
 
 
 <p align="left"> 
