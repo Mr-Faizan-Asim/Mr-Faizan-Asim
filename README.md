@@ -1,72 +1,168 @@
-<h1 align="center">Hello 👋, I'm Muhammad Faizan Asim</h1>
-<h3 align="center">Full Stack & AI Engineer</h3>
+<h1 align="center"> Hello, I am Muhammad Faizan Asim</h1>
+<h3 align="center">Full Stack Developer & AI Engineer | AI Research Enthusiast</h3>
 
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mr-faizan-asim&label=Profile%20views&color=0e75b6&style=flat" alt="mr-faizan-asim" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Faizan-Asim&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=flat-square&logo=workable&logoColor=white" alt="open to work" />
+  <img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=flat-square&logo=Upwork" alt="freelance available" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-faizan-asim" alt="mr-faizan-asim" /></a> 
-</p>
-
-- 🔭 I’m currently working on [developing a MERN stack application integrated with machine learning algorithms for predictive analytics in the IT industry.](https://woix.vercel.app/)
-  
-- 🌱 I’m currently learning **the latest advancements in machine learning and MERN stack technologies to stay at the cutting edge.**
-
-- 👯 I’m looking to collaborate on **exciting projects that combine MERN stack development and machine learning to solve real-world problems.**
-
-- 👨‍💻 All of my projects are available at [https://muhammad-faizan-asim.vercel.app/](https://muhammad-faizan-asim.vercel.app/)
-
-- 📫 How to reach me: **You can contact me at mr.faizan.asim@gmail.com to discuss potential collaborations or projects.**
-
-- ⚡ Fun fact: **I once trained a machine learning model to predict the outcome of sports events, and it was surprisingly accurate!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muhammadfaizanasim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad faizan asim" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/user9203rb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user9203rb/" height="30" width="40" />
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Faizan-Asim&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Faizan-Asim&layout=compact&theme=radical" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<!-- LeetCode & GitHub Trophies -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mFaizanAsim?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Faizan-Asim&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
+---
+
+##  About Me
+
+I'm an **Experienced MERN Stack & Generative AI Developer** with 2+ year of professional experience building intelligent, scalable web applications. I blend **full-stack development** with **AI/ML innovation** to solve real-world problems.
+
+- **Software Engineer Consultant** at CM Punjab Green Credit Program
+- **Founder** of [Woix](https://woix.vercel.app/) – delivering full-stack solutions
+- **Teaching Assistant** at UET Lahore, guiding 100+ students in programming
+- Passionate about **AI research**, Gen AI, and community-driven tech education
+
+> "I build elegant, user-friendly solutions by combining software engineering with artificial intelligence and innovation."
+
+---
+
+##  Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27348B?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
+##  Professional Experience
+
+### **CM Punjab Green Credit Program**  
+**Software Engineer Consultant** | Feb 2025 – Present  
+- Enhanced the Green Credit Program website with **bike/cycle tracking**.
+- Upgraded UI/UX and converted it into a **Progressive Web App (PWA)**.
+- Integrated real-time data monitoring for environmental impact tracking.
+
+### **Woix**  
+**Web Developer** | Sep 2023 – Present  
+- Led development of client platforms, including an **Accessories Sales Platform** for a Spanish client.
+- Built and maintained the official [Woix website](https://woix.vercel.app/).
+- Specialized in MERN stack and full-stack solutions.
+
+### **UET Lahore**  
+**Teaching Assistant** | Sep 2023 – May 2024  
+- Mentored 100+ students in **Programming Fundamentals (PF)** and **OOP**.
+- Covered web development, AI pathways, and Windows Forms GUI development.
+
+### **Google Developers Group**  
+**Organizer & Chapter Lead** | Aug 2024 – Present  
+- Organized major events: **GDG Dev Day**, **Cyber Fest**, and ongoing **Dev-Connect** series.
+- Promoted developer community growth and knowledge sharing.
+
+### **Xavor Corporation**  
+**Gen-AI Intern** | Jun 2024 – Sep 2024  
+- Developed AI-powered applications using **Generative AI frameworks**.
+- Collaborated on real-world AI integration and model optimization.
+
+---
+
+##  Education
+
+### **University of Engineering & Technology (UET), Lahore**  
+**Bachelor's in Computer Science** | 2022 – 2026  
+- CGPA: **3.5**  
+- Relevant Coursework: Data Structures, AI Fundamentals, Web Development, OOP
+
+---
+
+##  Featured Projects
+
+### [Extended Green Credit Program](https://greencredit.punjab.gov.pk/)  
+> **PHP | PWA | Real-time Tracking**  
+Developed the official site with bike/cycle tracking, enhanced UI, and PWA support for CM Punjab.
+
+### [Woix Official Website](https://woix.vercel.app/)  
+> **Full-Stack | Client Platform | Modern UI/UX**  
+Official platform showcasing services, memberships, and project portfolios.
+
+### [Tech Nexus Website](https://muhammad-faizan-asim.vercel.app/)  
+> **Community Hub | Event Management | Custom Domain**  
+Built the official site for the Tech Nexus society, promoting AI and tech education.
+
+---
+
+
+##  Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-asim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mr.faizan.asim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/user9203rb/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://linktr.ee/muhammad_faizan_asim">
+    <img src="https://img.shields.io/badge/Linktree-06D6A0?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-faizan-asim&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://muhammad-faizan-asim.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mr-Faizan-Asim">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>✨ Building intelligent web apps with AI | Last updated: August 2025 ✨</sub>
+</div>
