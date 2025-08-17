@@ -74,62 +74,6 @@ I'm an **Experienced MERN Stack & Generative AI Developer** with 2+ year of prof
 
 ---
 
-##  Professional Experience
-
-### **CM Punjab Green Credit Program**  
-**Software Engineer Consultant** | Feb 2025 – Present  
-- Enhanced the Green Credit Program website with **bike/cycle tracking**.
-- Upgraded UI/UX and converted it into a **Progressive Web App (PWA)**.
-- Integrated real-time data monitoring for environmental impact tracking.
-
-### **Woix**  
-**Web Developer** | Sep 2023 – Present  
-- Led development of client platforms, including an **Accessories Sales Platform** for a Spanish client.
-- Built and maintained the official [Woix website](https://woix.vercel.app/).
-- Specialized in MERN stack and full-stack solutions.
-
-### **UET Lahore**  
-**Teaching Assistant** | Sep 2023 – May 2024  
-- Mentored 100+ students in **Programming Fundamentals (PF)** and **OOP**.
-- Covered web development, AI pathways, and Windows Forms GUI development.
-
-### **Google Developers Group**  
-**Organizer & Chapter Lead** | Aug 2024 – Present  
-- Organized major events: **GDG Dev Day**, **Cyber Fest**, and ongoing **Dev-Connect** series.
-- Promoted developer community growth and knowledge sharing.
-
-### **Xavor Corporation**  
-**Gen-AI Intern** | Jun 2024 – Sep 2024  
-- Developed AI-powered applications using **Generative AI frameworks**.
-- Collaborated on real-world AI integration and model optimization.
-
----
-
-##  Education
-
-### **University of Engineering & Technology (UET), Lahore**  
-**Bachelor's in Computer Science** | 2022 – 2026  
-- CGPA: **3.5**  
-- Relevant Coursework: Data Structures, AI Fundamentals, Web Development, OOP
-
----
-
-##  Featured Projects
-
-### [Extended Green Credit Program](https://greencredit.punjab.gov.pk/)  
-> **PHP | PWA | Real-time Tracking**  
-Developed the official site with bike/cycle tracking, enhanced UI, and PWA support for CM Punjab.
-
-### [Woix Official Website](https://woix.vercel.app/)  
-> **Full-Stack | Client Platform | Modern UI/UX**  
-Official platform showcasing services, memberships, and project portfolios.
-
-### [Tech Nexus Website](https://muhammad-faizan-asim.vercel.app/)  
-> **Community Hub | Event Management | Custom Domain**  
-Built the official site for the Tech Nexus society, promoting AI and tech education.
-
----
-
 
 ##  Let's Connect
 
@@ -163,6 +107,4 @@ Built the official site for the Tech Nexus society, promoting AI and tech educat
   </a>
 </p>
 
-<div align="center">
-  <sub>✨ Building intelligent web apps with AI | Last updated: August 2025 ✨</sub>
-</div>
+
