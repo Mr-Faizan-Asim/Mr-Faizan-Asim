@@ -30,9 +30,9 @@
 
 I'm an **Experienced MERN Stack & Generative AI Developer** with 2+ year of professional experience building intelligent, scalable web applications. I blend **full-stack development** with **AI/ML innovation** to solve real-world problems.
 
-- **Software Engineer Consultant** at CM Punjab Green Credit Program
-- **Founder** of [Woix](https://woix.vercel.app/) – delivering full-stack solutions
-- **Teaching Assistant** at UET Lahore, guiding 100+ students in programming
+- **Ex-Software Engineer Consultant** at CM Punjab Green Credit Program
+- **Ex-Full Stack Developer** of [Woix] – delivering full-stack solutions
+- **Ex-Teaching Assistant** at UET Lahore, guiding 100+ students in programming
 - Passionate about **AI research**, Gen AI, and community-driven tech education
 
 > "I build elegant, user-friendly solutions by combining software engineering with artificial intelligence and innovation."
