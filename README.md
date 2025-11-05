@@ -28,7 +28,7 @@
 
 ##  About Me
 
-I'm an **Experienced MERN Stack & Generative AI Developer** with 2+ year of professional experience building intelligent, scalable web applications. I blend **full-stack development** with **AI/ML innovation** to solve real-world problems.
+I'm an **Experienced Full Stack & Generative AI Developer** with years of professional experience building intelligent, scalable web applications. I blend **full-stack development** with **AI/ML innovation** to solve real-world problems.
 
 - **Ex-Software Engineer Consultant** at CM Punjab Green Credit Program
 - **Ex-Full Stack Developer** of [Woix] – delivering full-stack solutions
